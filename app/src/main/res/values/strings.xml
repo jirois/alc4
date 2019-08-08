@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Travelmantic</string>
+    <string name="text_name">Enter vacation</string>
+    <string name="text_price">Price</string>
+    <string name="text_desc">Describe the vacation</string>
+    <string name="sava_menu">save</string>
+    <string name="new_deal_title">New Travel Deal</string>
+    <string name="delete_deal_title">Delete Deal</string>
+    <string name="logout_menu">Logout</string>
+
+</resources>
